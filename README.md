@@ -15,13 +15,13 @@ Utilidad de cifrado de texto.
 Para instalar la versión gráfica (GUI):
 1. Descargar el ejecutable para su sistema operativo:
     - Windows (pronto)
-    - [Linux](dist/datacipher_gui)
+    - [Linux](dist/datacipher_gui?raw=true)
 2. Ejecutar el archivo descargado.
 
 Para instalar la versión de línea de comandos (CLI):
 1. Descargar el ejecutable para su sistema operativo:
     - Windows (pronto)
-    - [Linux](dist/datacipher_cli)
+    - [Linux](dist/datacipher_cli?raw=true)
 2. Ejecutar el archivo descargado.
 
 ## Uso - Versión gráfica (GUI)
